@@ -38,8 +38,8 @@
 
 ### 🧩 Repositórios em Destaque
 
+- [react-solid-tdd](https://github.com/roliveirajr01/react-solid-tdd) - ReactJS com Typescript, TDD, Clean Architecture, Design Patterns e SOLID
 - [react-with-redux](https://github.com/roliveirajr01/react-with-redux) - Treino de React com Redux
 - [slide-typescript](https://github.com/roliveirajr01/slide-typescript) - Treino de TypeScript
-- [graphql-with-jest](https://github.com/roliveirajr01/graphql-with-jest) - Testes com GraphQL e Jest
 - [typescript-with-react](https://github.com/roliveirajr01/typescript-with-react) - TypeScript com React
-- [ecommerce](https://github.com/roliveirajr01/ecommerce) - Projeto de e-commerce
+- [ecommerce](https://github.com/roliveirajr01/ecommerce) - Projeto com Node.js
