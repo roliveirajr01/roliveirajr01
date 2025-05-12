@@ -11,7 +11,7 @@
 🎯 **Desenvolvedor Front-End com 5 anos de experiência em ReactJS**
 
 - 🧠 Apaixonado por interfaces responsivas e intuitivas
-- 🛠️ Especializado em JavaScript, React, Redux, TypeScript
+- 🛠️ Especializado em JavaScript, React, Next, Redux, TypeScript e Aspirante a Node
 - 🌍 Localizado em Mogi das Cruzes - SP
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/roliveira-junior/)
 
